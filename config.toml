@@ -1,0 +1,29 @@
+# The URL the site will be built for
+base_url = "https://www.trebetherick.org"
+
+# Whether to automatically compile all Sass files in the sass directory
+compile_sass = true
+
+# Whether to build a search index to be used later on by a JavaScript library
+build_search_index = true
+
+taxonomies = [{ name = "tags", feed = true }]
+
+# The site title and description; used in feeds by default.
+title = "The Trebetherick Museum"
+description = "A community-built website chronicalling the history of the village of Trebetherick, Cornwall, UK."
+
+# The default language; used in feeds.
+default_language = "en"
+
+# The site theme to use.
+theme = "zolastrap"
+
+
+[markdown]
+# Whether to do syntax highlighting
+# Theme can be customised by setting the `highlight_theme` variable to a theme supported by Zola
+highlight_code = true
+
+[extra]
+# Put all your custom variables here
