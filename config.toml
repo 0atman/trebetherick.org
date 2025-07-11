@@ -6,6 +6,8 @@ compile_sass = true
 
 # Whether to build a search index to be used later on by a JavaScript library
 build_search_index = true
+generate_sitemap = true
+generate_robots_txt = true
 
 taxonomies = [{ name = "tags", feed = true }]
 
@@ -19,11 +21,28 @@ default_language = "en"
 # The site theme to use.
 theme = "zolastrap"
 
+feed_filenames = ["atom.xml", "rss.xml"]
+
+author = "Jenny Oaten"
+
+generate_feeds = true
+
 
 [markdown]
+insert_anchor_links = "heading"
+bottom_footnotes = true
+smart_punctuation = true
+render_emoji = true
 # Whether to do syntax highlighting
 # Theme can be customised by setting the `highlight_theme` variable to a theme supported by Zola
 highlight_code = true
+highlight_theme = "visual-studio-dark"
+
+[[extra.links]]
+title = "About"
+url = "/about"
 
 [extra]
 # Put all your custom variables here
+theme = "zephyr"
+email = "contact@trebetherick.org"

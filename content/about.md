@@ -3,4 +3,4 @@ title: "title here"
 date: 2025-01-01
 ---
 
-body here
+This is an archive of the history of Trebetherick.
