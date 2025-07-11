@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+      <title>The Trebetherick Museum</title>
+      <link>https://www.trebetherick.org</link>
+      <description>A community-built website chronicalling the history of the village of Trebetherick, Cornwall, UK.</description>
+      <generator>Zola</generator>
+      <language>en</language>
+      <atom:link href="https://www.trebetherick.org/rss.xml" rel="self" type="application/rss+xml"/>
+      <lastBuildDate>Wed, 01 Jan 2025 00:00:00 +0000</lastBuildDate>
+      <item>
+          <title>title here</title>
+          <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+          <author>Jenny Oaten</author>
+          <link>https://www.trebetherick.org/about/</link>
+          <guid>https://www.trebetherick.org/about/</guid>
+          <description xml:base="https://www.trebetherick.org/about/">&lt;p&gt;This is an archive of the history of Trebetherick.&lt;&#x2F;p&gt;
+</description>
+      </item>
+      <item>
+          <title>title here</title>
+          <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+          <author>Jenny Oaten</author>
+          <link>https://www.trebetherick.org/maps/somemaps/</link>
+          <guid>https://www.trebetherick.org/maps/somemaps/</guid>
+          <description xml:base="https://www.trebetherick.org/maps/somemaps/">&lt;p&gt;body here&lt;&#x2F;p&gt;
+</description>
+      </item>
+    </channel>
+</rss>
