@@ -44,5 +44,8 @@ url = "/about"
 
 [extra]
 # Put all your custom variables here
-theme = "zephyr"
+banner = ""
+theme = "superhero"
 email = "contact@trebetherick.org"
+
+#schemes = ""
