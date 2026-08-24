@@ -78,7 +78,7 @@ He recalled that the only route from The Haven in Trebetherick to Polzeath was a
 ### Old Field Names ...spelling variations; Fore Door/Fore Dore
 Originally David Arthur's field 169 in 1825 was called Fore Door Field, Tythe page 22. Perhaps Thomas Guy named it back in 1632 but more likely, the lord of the manor, Charles Roscarrock of Roscarrock had already recorded its name, reflecting that someone could see it from his front door, (fore meaning front in Cornish).
 John Mably's field 220 was called The Fore Door, Tythe page 17. 
-In 1950s the subsequent hotel and garage development in Fore Door Field were called Fore Dore.
+In 1950s the subsequent hotel and garage developments in Fore Door Field were called Fore Dore.
 
 ### 1838 TYTHE Map Field Names page 3
 
