@@ -60,7 +60,7 @@ He recalled that the only route from The Haven in Trebetherick to Polzeath was a
 
 ---
 ​
-<img width="80%" src="/StMinv0005 - Trebetherick.png" alt="St Minver0005">
+<img width="80%" src="/StMinv0005 - Trebetherick.jpg" alt="St Minver0005">
 
 ---
 
