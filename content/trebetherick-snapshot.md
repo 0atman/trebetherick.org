@@ -288,7 +288,14 @@ Bill Tucker from Trewornan Farm, was a horse and coaching enthusiast and he used
 
 
 
-Higher Farm on Left - Shop on Right
+- Higher Farm on Left - Coastguard Cottages now Shop on Right.
+ 
+1840 - Trebetherick Coastguard Cottages and Rocket Equipment House was originally built in 1840 as a pair of semi-detached buildings for the full time Coastguards. The Trebetherick Coastguard team regularly risked their lives. In April 1900, they rescued five crewmen from the wrecked ketch Peace and Plenty and Lifeboat Arab
+
+From the 1880s to the 1930s, the Trebetherick Rocket Apparatus was regularly brought down by a horse drawn cart for practice. The apparatus was kept in the distinctive brick building still known as The Rocket House, adjacent to the Coastguard Cottages.
+
+Eventually as the RNLI grew and developed, the role of Coastguard became a part time position, the cottages were sold separately as Upalong and Tregawne (Ralph was boen at Tregawne Farm, Withiel, hence the name Tregawne). The latter was owned and run as Trebetherick Stores by Richard Tellam-Hocking, and then by their son Ralph and his wife Audrey Tellam-Hocking and later by their son Nigel and his wife Sue. As of 2023 the shop has been run by Flo as Deli Cafe and General Store.
+
 
 
 <img width="80%" src="/higher-farm-left-shop-right.jpg" alt="At the top of Daymer Lane, at the junction with Worthy Hill, this view is looking along the road to Polzeath">
