@@ -294,7 +294,8 @@ Bill Tucker from Trewornan Farm, was a horse and coaching enthusiast and he used
 
 From the 1880s to the 1930s, the Trebetherick Rocket Apparatus was regularly brought down by a horse drawn cart for practice. The apparatus was kept in the distinctive brick building still known as The Rocket House, adjacent to the Coastguard Cottages.
 
-Eventually as the RNLI grew and developed, the role of Coastguard became a part time position, the cottages were sold separately as Upalong and Tregawne (Ralph was boen at Tregawne Farm, Withiel, hence the name Tregawne). The latter was owned and run as Trebetherick Stores by Richard Tellam-Hocking, and then by their son Ralph and his wife Audrey Tellam-Hocking and later by their son Nigel and his wife Sue. As of 2023 the shop has been run by Flo as Deli Cafe and General Store.
+Eventually as the RNLI grew and developed, the role of Coastguard became a part time position, the cottages were sold separately as Upalong and Tregawne (Ralph was born at Tregawne Farm, Withiel, hence the name Tregawne). The latter was owned and run as Trebetherick Stores by Richard Tellam-Hocking, and by their son Ralph and his wife Audrey Tellam-Hocking and later their son Nigel and his wife Sue. 
+Since 2023 the shop has been run by Flo as Deli Cafe and General Store.
 
 
 
