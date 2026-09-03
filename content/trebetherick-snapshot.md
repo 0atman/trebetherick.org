@@ -209,7 +209,7 @@ Lewis and Mabyn Oaten married in 1938 and lived at Trelawney till the mid 1950s 
 
 # DAYMER BAY GARAGE and WORKSHOPS
 
-- The Daymer Bay Garage, was located at the junction of Worthy Hill and Daymer Lane, was operated by Norman Cleave, a motor car enthusiast and the father of Leadville Cleave and grandfather of Jon Cleave, from Port Isaac. The garage included workshops, garages, and a petrol pump. Norman also managed the Clock Garage at Rock.
+- The Daymer Bay Garage, was located at the junction of Worthy Hill and Daymer Lane, was operated by Norman Cleave, a motor car enthusiast and the father of Leadville Cleave and grandfather of Jon Cleave, from Port Isaac. The garage included workshops, garages, and a petrol pump. Norman also managed the Clock Garage at Rock and generously donated some land behind so that a social club could be built in 1946 for the locals and in particular the men coming back from WW2. Now called the Rock and District Sports Club.
 
 <img width="80%" src="/Norman Cleave.jpg" alt="Mr and Mrs Norman Cleave">
 
