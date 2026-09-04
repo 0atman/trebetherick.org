@@ -199,7 +199,7 @@ Lewis and Mabyn Oaten married in 1938 and lived at Trelawney till the mid 1950s 
 
 # BEFORE THE ROAD WAS WIDENED IN 1960s
 
-- Looking uphill, at The Haven entrance on the right, Old Farm is the house roof you can just about see in the centre, with the old Daymer Garage building to the left, demolished for the road straightening and widening improvements in late 1960s.
+- Looking uphill, at The Haven entrance on the right (parallel to the old road), Old Farm is the house roof you can just about see in the centre, with the old Daymer Garage building to the left, demolished for the road straightening and widening improvements in late 1960s.
 
 <img width="80%" src="/haven-uphill-old-farm-centre.jpg" alt="Looking uphill, at The Haven entrance on the right, Old Farm is the house you can just about see in the centre">
 
@@ -209,7 +209,7 @@ Lewis and Mabyn Oaten married in 1938 and lived at Trelawney till the mid 1950s 
 
 # DAYMER BAY GARAGE and WORKSHOPS
 
-- The Daymer Bay Garage, located at the junction of Worthy Hill and Daymer Lane, was run by Norman Cleave, a motor car enthusiast. He was the father of Leadville Cleave and grandfather of Jon Cleave, from Port Isaac. The garage included workshops, garages, and a petrol pump. Norman also managed the Clock Garage at Rock and generously donated some land behind to enable a social club to be built for the locals and in particular the men coming back from WW2 in 1946. It is now called the Rock and District Sports Club.
+- The Daymer Bay Garage, located at the junction of Worthy Hill and Daymer Lane, was owned and run by Norman Cleave (photo below of Mr and Mrs Norman Cleave), a motor car enthusiast. He was the father of Leadville Cleave and grandfather of Jon Cleave, from Port Isaac. The garage included workshops, garages, and a petrol pump. As the numbers of motor cars increased, Norman also developed Clock Garage at Rock and generously donated some land behind to enable a social club to be built for the locals and in particular the men coming back from WW2 in 1946. 80 years on, it is now called the Rock and District Sports Club.
 
 <img width="80%" src="/Norman Cleave.jpg" alt="Mr and Mrs Norman Cleave">
 
